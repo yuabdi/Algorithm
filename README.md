@@ -23,10 +23,10 @@ We implemented and compared the following MST algorithms:
 - **Kruskal's Algorithm**
 - **Prim's Algorithm**
 
-Dat input
+**Data input
 
-Future Improvements 
+**Future Improvements 
 
-Relevances
+***Relevances
 
-Conclution
+**Conclution
